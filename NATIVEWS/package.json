@@ -1,0 +1,26 @@
+{
+  "name": "socket.io-with-websockets---udemy-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "justWsServer.js",
+  "scripts": {
+    "start": "node jusWsServer.js",
+    "server": "nodemon justWsServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeOfTheFuture/Socket.IO-with-websockets---Udemy-Course.git"
+  },
+  "author": "Jeff Oliver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeOfTheFuture/Socket.IO-with-websockets---Udemy-Course/issues"
+  },
+  "homepage": "https://github.com/codeOfTheFuture/Socket.IO-with-websockets---Udemy-Course#readme",
+  "dependencies": {
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
