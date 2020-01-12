@@ -2,14 +2,15 @@
   "name": "socketio101",
   "version": "1.0.0",
   "description": "",
-  "main": "basics.js",
+  "main": "chat.js",
   "scripts": {
-    "start": "node basics.js",
-    "server": "nodemon basics.js"
+    "start": "node chat.js",
+    "server": "nodemon chat.js"
   },
   "author": "Jeff Oliver",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
