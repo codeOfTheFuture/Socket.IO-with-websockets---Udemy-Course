@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/codeOfTheFuture/Socket.IO-with-websockets---Udemy-Course#readme",
   "dependencies": {
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
